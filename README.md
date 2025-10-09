@@ -1,0 +1,1 @@
+Dive into the classic fun of Tic-Tac-Toe right here. Perfect for a quick brain break, our interactive webpage lets you challenge a friend in local two-player mode or test your strategic skills against our intelligent computer opponent. Enjoy a clean, modern interface that makes the ultimate game of X's and O's accessible anytime, anywhere. 
